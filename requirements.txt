@@ -1,0 +1,6 @@
+Cython>=3.0.0
+
+httpx~=0.28.1
+setuptools~=65.5.0
+matplotlib~=3.10.7
+colorama~=0.4.6
